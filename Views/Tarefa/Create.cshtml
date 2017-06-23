@@ -1,0 +1,15 @@
+@model TarefaWeb.Models.Tarefa
+
+<div class="row">
+    <form method="post" asp-controller="Tarefa" asp-action="Create">
+    <div class="form-group">
+        <label>Nome</label>
+        <input type="text" asp-for="Nome"><br>
+    </div>
+    <div class="form-group">
+    <label>Concluida</label>
+        <input type="checkbox" asp-for="Concluida"><br>
+    </div>
+        <button class="btn btn-success">Salvar</button>
+    </form>
+</div>

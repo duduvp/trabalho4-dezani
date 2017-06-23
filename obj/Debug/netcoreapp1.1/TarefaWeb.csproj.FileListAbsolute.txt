@@ -1,0 +1,8 @@
+D:\_DEV\TarefaAspNetCore\TarefaWeb\bin\Debug\netcoreapp1.1\TarefaWeb.deps.json
+D:\_DEV\TarefaAspNetCore\TarefaWeb\bin\Debug\netcoreapp1.1\TarefaWeb.runtimeconfig.json
+D:\_DEV\TarefaAspNetCore\TarefaWeb\bin\Debug\netcoreapp1.1\TarefaWeb.runtimeconfig.dev.json
+D:\_DEV\TarefaAspNetCore\TarefaWeb\bin\Debug\netcoreapp1.1\TarefaWeb.dll
+D:\_DEV\TarefaAspNetCore\TarefaWeb\bin\Debug\netcoreapp1.1\TarefaWeb.pdb
+D:\_DEV\TarefaAspNetCore\TarefaWeb\obj\Debug\netcoreapp1.1\TarefaWeb.AssemblyInfo.cs
+D:\_DEV\TarefaAspNetCore\TarefaWeb\obj\Debug\netcoreapp1.1\TarefaWeb.dll
+D:\_DEV\TarefaAspNetCore\TarefaWeb\obj\Debug\netcoreapp1.1\TarefaWeb.pdb
